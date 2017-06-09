@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 2d97cb46c9f04974e82cefaf95c4cf81
+timeCreated: 1495720230
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Towers_4__0
+    21300002: Towers_4__1
+    21300004: Towers_4__2
+    21300006: Towers_4__3
+    21300008: Towers_4__4
+    21300010: Towers_4__5
+    21300012: Towers_4__6
+    21300014: Towers_4__7
+    21300016: Towers_4__8
+    21300018: Towers_4__9
+    21300020: wood_tower
+    21300022: Towers_4__11
+    21300024: Towers_4__12
+    21300026: Towers_4__13
+    21300028: Towers_4__14
+    21300030: Towers_4__15
+    21300032: Towers_4__16
+    21300034: Towers_4__17
+    21300036: Towers_4__18
+    21300038: Towers_4__19
+    21300040: Towers_4__20
+    21300042: Towers_4__21
+    21300044: Towers_4__22
+    21300046: Towers_4__23
+    21300048: Towers_4__24
+    21300050: Towers_4__25
+    21300052: Towers_4__26
+    21300054: Towers_4__27
+    21300056: Towers_4__28
+    21300058: Towers_4__29
+    21300060: Towers_0
+    21300062: Towers_1
+    21300064: rock_tower
+    21300066: rock_big_tower
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 80
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Towers_4__0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 610
+        width: 100
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4661209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 467
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3897221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 321
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38076827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 168
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4363049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__4
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 17
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35029042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37875518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 168
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36764547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 306
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.4999994, y: 0.33098996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 462
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3758366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 100
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4876242, y: 0.4875117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wood_tower
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 615
+        width: 88
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41352233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 464
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33820692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35685968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33228695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3424234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 636
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 487
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 352
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 191
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 48
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__20
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 48
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__21
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 49
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__22
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 193
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 354
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 483
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__26
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 635
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 638
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 486
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_4__29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_0
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 258
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Towers_1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 172
+        width: 102
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock_tower
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 613
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rock_big_tower
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 614
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
